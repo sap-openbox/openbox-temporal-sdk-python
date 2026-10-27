@@ -4,6 +4,12 @@ All notable changes to OpenBox SDK for Temporal Workflows.
 
 ## [Unreleased]
 
+## [2.1.0] - 2026-10-26
+
+### Changed
+
+- Raise the base SDK dependency to `openbox-sdk-python[http]>=1.5.0` for OpenRouter routing provenance on activity HTTP calls.
+
 ## [2.0.0] - 2026-09-21
 
 ### Added
